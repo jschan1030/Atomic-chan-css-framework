@@ -1,0 +1,31 @@
+/* Atomicu-chan Color Tokens – Shamelessly stolen from Martin's Point */
+
+:root {
+    /* Primary Brand Colors */
+    --color-primary: #003B49;
+    /* Marine */
+    --color-background: #FFFFFF;
+    /* White */
+    --color-surface: #E5E9EB;
+    /* Mist */
+
+    /* Accent / Secondary Colors */
+    --color-accent-orange: #F46B10;
+    /* Casco Orange */
+    --color-accent-gold: #F0B323;
+    /* Veranda Gold */
+    --color-accent-green: #008080;
+    /* Atlantic Green */
+    --color-accent-blue: #2A78CB;
+    /* Presumpscot Blue */
+
+    /* Utility Colors */
+    --color-text: #3E3E3F;
+    /* Utility Dark Grey */
+    --color-muted: #C5CBCC;
+    /* Utility Light Grey */
+    --color-danger: #EF4444;
+    /* Optional – Alert Red */
+    --color-success: #10B981;
+    /* Optional – Success Green */
+}

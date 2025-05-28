@@ -1,0 +1,13 @@
+.card {
+    background-color: var(--color-surface);
+    display: flex;
+    flex-direction: column;
+    padding: var(--spacing-3);
+    border: 2px solid var(--color-muted);
+    border-radius: 16px;
+    gap: var(--spacing-2);
+}
+
+.card:hover {
+    border: 2px solid var(--color-accent-blue);
+}
